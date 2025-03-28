@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+
+    <!-- MainActivity -->
+    <string name="btn_calculadora">Calculadora IMC</string>
+
+    <!-- CalculoIMCActivity -->
+    <string name="hint_peso">Peso (kg)</string>
+    <string name="hint_altura">Altura (m)</string>
+    <string name="btn_calcular">Calcular IMC</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_fechar">Fechar</string>
+    <string name="preencha_campos">Preencha ambos os campos!</string>
+
+    <!-- Classificações -->
+    <string name="abaixo_peso">Abaixo do peso</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidade_1">Obesidade grau 1</string>
+    <string name="obesidade_2">Obesidade grau 2</string>
+    <string name="obesidade_3">Obesidade grau 3</string>
+
+    <!-- Labels feedback -->
+    <string name="label_peso">Peso: %.1f kg</string>
+    <string name="label_altura">Altura: %.2f m</string>
+    <string name="label_imc">IMC: %.1f</string>
+    <string name="label_classificacao">Classificação: %s</string>
+    <string name="btn_voltar">Voltar ao Início</string>
+
+    <!-- Mensagens de feedback -->
+    <string name="mensagem_abaixo_peso">Você está abaixo do peso ideal. Consulte um nutricionista para uma dieta balanceada que ajude você a alcançar seu peso saudável. Lembre-se que pequenos progressos já são uma vitória!</string>
+    <string name="mensagem_peso_normal">Parabéns! Você está dentro do peso considerado normal. Mantenha hábitos saudáveis para continuar assim. Lembre-se de praticar atividades físicas regularmente e manter uma alimentação equilibrada.</string>
+    <string name="mensagem_sobrepeso">Você está com sobrepeso. Com pequenas mudanças de hábitos você pode alcançar um peso mais saudável. Considere aumentar sua atividade física e fazer ajustes na alimentação.</string>
+    <string name="mensagem_obesidade_1">Você está com obesidade grau 1. É importante buscar orientação médica e nutricional para melhorar sua saúde. Cada passo em direção a hábitos mais saudáveis é uma vitória!</string>
+    <string name="mensagem_obesidade_2">Você está com obesidade grau 2. Recomendamos procurar um médico para avaliação. Com acompanhamento profissional e determinação, você pode melhorar sua qualidade de vida.</string>
+    <string name="mensagem_obesidade_3">Você está com obesidade grau 3. É essencial buscar ajuda médica especializada. Com o tratamento adequado e apoio profissional, você pode trabalhar para melhorar sua saúde e bem-estar.</string>
+</resources>

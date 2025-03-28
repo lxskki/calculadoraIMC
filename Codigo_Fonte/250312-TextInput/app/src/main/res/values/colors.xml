@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores principais -->
+    <color name="green_dark">#006341</color>
+    <color name="green_light">#00A859</color>
+    <color name="gray_dark">#4D4D4D</color>
+    <color name="gray_light">#B3B3B3</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Cores para feedback -->
+    <color name="feedback_abaixo_peso">#FFD54F</color>  <!-- Amarelo -->
+    <color name="feedback_peso_normal">#81C784</color>  <!-- Verde claro -->
+    <color name="feedback_sobrepeso">#FFB74D</color>    <!-- Laranja claro -->
+    <color name="feedback_obesidade1">#FF8A65</color>   <!-- Laranja -->
+    <color name="feedback_obesidade2">#E57373</color>   <!-- Vermelho claro -->
+    <color name="feedback_obesidade3">#F44336</color>   <!-- Vermelho -->
+</resources>

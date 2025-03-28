@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-->String do projeto -->
+    <string name = "appTitulo">CALCULADORA IMC</string>
+    <string name="appBtnSet">Analisar</string>
+    <string name="appBtnReset">Limpar</string>
+    <string name="appHintPlan1">Digite seu peso</string>
+    <string name="appHintPlan2">Digite sua altura</string>
+    <string name="appResultado">- - -</string>
+
+    <color name="appColor1">#A020F0</color>
+    <color name="appColor2">#FFFF</color>
+</resources>
