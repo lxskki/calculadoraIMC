@@ -17,7 +17,7 @@ Aplicativo Android para cálculo de Índice de Massa Corporal (IMC) com:
 - Android Studio
 - Java
 - XML
-- Git/GitHub
+- GitHub
 
 ## 📦 Estrutura do Projeto
 ```
